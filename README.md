@@ -1,5 +1,8 @@
 # 3DTiles Plugin
-The 3DTiles Plugin is a Python plugin for the KITModelViewer Python API ...
+The 3DTiles Plugin is a Python plugin for the KITModelViewer Python API.
+Based on https://github.com/qq1469617613/3DTilesDownloader
+
+
 <img width="" alt="" src="">
 
 ## Dependencies
