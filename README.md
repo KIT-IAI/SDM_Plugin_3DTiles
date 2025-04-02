@@ -2,10 +2,6 @@
 The 3DTiles Plugin is a Python plugin for the KITModelViewer Python API ...
 <img width="" alt="" src="">
 
-## User Interface
-
-The user interface is based on [wxWidgets](https://www.wxwidgets.org/) and was made with [wxFormBuilder](https://github.com/wxFormBuilder/wxFormBuilder).
-
 ## Dependencies
 
 |Package Name         |Install Command                            |
@@ -18,10 +14,10 @@ The user interface is based on [wxWidgets](https://www.wxwidgets.org/) and was m
 ## How to cite
 
 ```bibtex
-@software{SDM_Plugin_IfcTruss,
-	title        = {SDM_Plugin_KITTimeSeriesExplorer},
+@software{SDM_Plugin_3DTiles,
+	title        = {SDM_Plugin_3DTiles},
 	author       = {{Steven Timothy Schuerstaedt}},
-	url          = {https://github.com/KIT-IAI/SDM_Plugin_KIT_TimeSeriesExplorer},
+	url          = {https://github.com/KIT-IAI/SDM_Plugin_3DTiles},
 	date         = {2025}
 }
 ```
