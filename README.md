@@ -6,13 +6,13 @@ The plugin is based on the open plugin interface. To be able to create the plugi
  
 Based on https://github.com/qq1469617613/3DTilesDownloader.
 
-![KIT CN](https://gitlab.kit.edu/kit/iai/sdm/3dtiles-plugin/-/raw/main/3dtiles-plugin-example.png?ref_type=heads)
+![KIT CN](https://github.com/KIT-IAI/SDM_Plugin_3DTiles/blob/main/3dtiles-plugin-example.png?raw=true)
 
 ## Usage
 
 Load some georeferenced file and start the plugin. The plugin will automatically detect the location and size of the current model and downloads the corresponding 3dtiles.
 The 3dtiles are downloaded via the Google Maps Tile API. 
-![3dtiles-plugin](https://gitlab.kit.edu/kit/iai/sdm/3dtiles-plugin/-/raw/main/3dtiles-plugin-interface.png?ref_type=heads
+![3dtiles-plugin](https://github.com/KIT-IAI/SDM_Plugin_3DTiles/blob/main/3dtiles-plugin-interface.png?raw=true
 )
 
 
