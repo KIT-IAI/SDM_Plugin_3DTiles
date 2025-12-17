@@ -4,7 +4,7 @@ The 3DTiles Plugin for the [KITModelViewer](https://github.com/KIT-IAI/SDM_KITMo
 The plugin is based on the open plugin interface. To be able to create the plugin, the plugin SDK is required. Simply copy the content of the current SDK version into the plugin folder.
 
  
-Based on https://github.com/qq1469617613/3DTilesDownloader.
+Based on [3DTilesDownloader](https://github.com/qq1469617613/3DTilesDownloader).
 
 ![KIT CN](https://github.com/KIT-IAI/SDM_Plugin_3DTiles/blob/main/3dtiles-plugin-example.png?raw=true)
 
