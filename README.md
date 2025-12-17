@@ -15,11 +15,9 @@ The 3dtiles are downloaded via the Google Maps Tile API.<br>
 ![3dtiles-plugin](https://github.com/KIT-IAI/SDM_Plugin_3DTiles/blob/main/3dtiles-plugin-interface.png?raw=true)
 
 
-## Dependencies
-
-In order to access the Google Maps Tile API a valid api key is required. Enter the api key in Options->WebServices->Google 3D Tiles.
-Note: Google Maps Tile API is a free API but keys generated after 2025 might not be valid in the EU due to a legal conflict with Google and the EU. 
-You need to enable the Maps Tile API and the elevation API. 
+In order to access the Google Maps Tile API a valid API-key is required. In the KITModelViewer enter the API-key in `Options->WebServices->Google 3D Tiles`.
+Note: Google Maps Tile API is a free API, but keys generated after 2025 might not be valid in the EU due to a legal conflict with Google and the EU. 
+You need to enable the Maps Tile API and the Elevation API. 
 
 
 ## Building the project
@@ -32,7 +30,8 @@ In order for the plugin to run you need to compile the 3dtilesdownloader into an
 3. activate the venv `venv\Scripts\activate`
 4. install the requirements from requirements.txt `pip install -r requirements.txt`
 5. run the command `pyinstaller main.py` to build the executable
-6. copy the resulting `main.exe` and the `_internal` Folder into the directory of the plugin, `plugins/3dtilesplugin/` 
+
+When building the c++ project cmake will copy the resulting `main.exe` and the `_internal` folder into the directory of the plugin, `plugins/3dtilesplugin/`.
 
 ## Dependencies
 
