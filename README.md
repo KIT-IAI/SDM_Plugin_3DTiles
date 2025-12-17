@@ -1,5 +1,5 @@
-# 3dtiles-plugin
-The [3dtiles-plugin](https://github.com/KIT-IAI/SDM_Plugin_3DTiles) for the [KITModelViewer](https://github.com/KIT-IAI/SDM_KITModelViewer) downloads and displays geographical 3DTiles Data from the Google Maps Tile API.
+# 3DTiles Plugin
+The 3DTiles Plugin for the [KITModelViewer](https://github.com/KIT-IAI/SDM_KITModelViewer) downloads and displays geographical 3DTiles Data from the Google Maps Tile API.
 
 The plugin is based on the open plugin interface. To be able to create the plugin, the plugin SDK is required. Simply copy the content of the current SDK version into the plugin folder.
 
@@ -11,9 +11,8 @@ Based on https://github.com/qq1469617613/3DTilesDownloader.
 ## Usage
 
 Load some georeferenced file and start the plugin. The plugin will automatically detect the location and size of the current model and downloads the corresponding 3dtiles.
-The 3dtiles are downloaded via the Google Maps Tile API. 
-![3dtiles-plugin](https://github.com/KIT-IAI/SDM_Plugin_3DTiles/blob/main/3dtiles-plugin-interface.png?raw=true
-)
+The 3dtiles are downloaded via the Google Maps Tile API.<br> 
+![3dtiles-plugin](https://github.com/KIT-IAI/SDM_Plugin_3DTiles/blob/main/3dtiles-plugin-interface.png?raw=true)
 
 
 ## Dependencies
