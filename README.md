@@ -49,9 +49,9 @@ In order to build the python files into an executable Python is needed
 
 ```bibtex
 @software{SDM_Plugin_3DTiles,
-	title        = {SDM_Plugin_3DTiles},
-	author       = {{Timothy Steven Schürstädt}},
+	title        = {{SDM\_Plugin\_3DTiles}},
+	author       = {Timothy Steven Schürstädt},
 	url          = {https://github.com/KIT-IAI/SDM_Plugin_3DTiles},
-	date         = {2025}
+	year         = {2025}
 }
 ```
